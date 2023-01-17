@@ -7,10 +7,9 @@ function swiperInit() {
     loop: true,
     effect: 'fade',
 
-    // Turn on later
-    // autoplay: {
-    //   delay: 10000,
-    // },
+    autoplay: {
+      delay: 10000,
+    },
 
     // pagination: {
     //   el: '.swiper-pagination',
