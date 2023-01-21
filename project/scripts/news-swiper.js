@@ -11,7 +11,7 @@ function swiperInit() {
 
     pagination: {
       el: '.news__pagination',
-      clickable: false,
+      clickable: true,
       type: 'bullets',
     },
 

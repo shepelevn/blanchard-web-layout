@@ -17,7 +17,7 @@ function swiperInit() {
 
     pagination: {
       el: '.gallery-slider__pagination',
-      clickable: false,
+      clickable: true,
       type: 'fraction',
     },
 

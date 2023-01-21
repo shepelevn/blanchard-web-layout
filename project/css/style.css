@@ -1076,6 +1076,10 @@ a .common-icon:active {
   background-color: black;
 }
 
+.choices__list .is-selected {
+  display: none;
+}
+
 .gallery-choices .choices__list--dropdown .choices__item.is-highlighted {
   color: white;
   background-color: rgba(230, 230, 230, 0.3);
@@ -2723,14 +2727,17 @@ a .common-icon:active {
   /* Hero */
 
   .hero__text {
-    width: calc((661 + 350) / 768 * 100vw - 350px);
+    max-width: 100%;
   }
 
   .hero__title {
+    width: auto;
+    max-width: 100%;
     font-size: calc((72 - 10) / 768 * 100vw + 10px);
   }
 
   .hero__description {
+    width: calc((661 + 350) / 768 * 100vw - 350px);
     font-size: calc((18 - 10) / 768 * 100vw + 10px);
   }
 
@@ -2996,6 +3003,7 @@ a .common-icon:active {
   }
 
   .hero__text {
+    max-width: auto;
     width: 265px;
     text-align: center;
   }
@@ -3009,6 +3017,7 @@ a .common-icon:active {
   }
 
   .hero__description {
+    width: auto;
     margin-bottom: 42px;
     font-size: 12px;
     line-height: 16px;
