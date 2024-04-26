@@ -4,8 +4,8 @@ Layout of the web gallery site "Blanchard"
 
 ## README.md
 
-* en [English](../README.md)
-* ru [Русский](../readme/README.ru.md)
+* en [English](README.md)
+* ru [Русский](readme/README.ru.md)
 
 ## Installation and launch
 

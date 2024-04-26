@@ -5,7 +5,7 @@
 ## README.md
 
 * en [English](../README.md)
-* ru [Русский](../readme/README.ru.md)
+* ru [Русский](README.ru.md)
 
 ## Установка и запуск проекта
 
