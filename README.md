@@ -1,16 +1,20 @@
-# Вёрстка сайта "Blanchard"
+# Layout of the website "Blanchard"
 
-Верстка сайта веб-галереи "Blanchard"
+Layout of the web gallery site "Blanchard"
 
-## Установка и запуск проекта
+## README.md
 
-1. Склонируйте репозиторий с помощью команды
-   `git clone https://github.com/shepelevn/blanchard-web-layot.git blanchard-web-layout`
-2. Запустите локальный сервер в папке `blanchard-web-layout`
+* en [English](../README.md)
+* ru [Русский](../readme/README.ru.md)
 
-## Описание страниц
+## Installation and launch
 
-`index.html` - основная страница вёрстки
+1. Clone the repository by running
+   `git clone https://github.com/shepelevn/blanchard-web-layout.git blanchard-web-layout`
+2. Start a local dev server in a folder `blanchard-web-layout/project`
 
-`index-overflow.html` - тестирование основной страницы вёрстки на
-переполнение
+## Pages description
+
+`index.html` - main page
+
+`index-overflow.html` - overflow test of the main page
