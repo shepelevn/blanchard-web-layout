@@ -18,3 +18,9 @@ Layout of the web gallery site "Blanchard"
 `index.html` - main page
 
 `index-overflow.html` - overflow test of the main page
+
+## Technologies used in the project
+
+* HTML
+* CSS
+* JavaScript
